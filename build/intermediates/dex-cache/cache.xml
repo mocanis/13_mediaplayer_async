@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chris/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5222229f1c877194b1ede84255497df64b0af853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd6c2e9b3988c35d6961210f88a1ae99feef440f">
+        <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe3c9bee42b3b2263c7e91ddd73f24ccf31036f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7c85e0594dd4d2f59b3c3553077935e0ed4d718">
+        <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86d8be0c732645b6d5c600f9f50d8e96c9e90523/classes.dex" />
+    </item>
+
+</items>

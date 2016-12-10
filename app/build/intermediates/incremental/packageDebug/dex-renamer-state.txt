@@ -1,0 +1,7 @@
+#Sun Dec 11 00:57:28 CST 2016
+base.0=/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86d8be0c732645b6d5c600f9f50d8e96c9e90523
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe3c9bee42b3b2263c7e91ddd73f24ccf31036f/classes.dex
+base.1=/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe3c9bee42b3b2263c7e91ddd73f24ccf31036f
+file.0=/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86d8be0c732645b6d5c600f9f50d8e96c9e90523/classes.dex
