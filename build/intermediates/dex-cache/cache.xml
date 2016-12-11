@@ -12,21 +12,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d545f3658e4895cf3c649d56e40ea0587d82bd53">
+        <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86d8be0c732645b6d5c600f9f50d8e96c9e90523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="dd6c2e9b3988c35d6961210f88a1ae99feef440f">
         <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe3c9bee42b3b2263c7e91ddd73f24ccf31036f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a7c85e0594dd4d2f59b3c3553077935e0ed4d718">
-        <dex dex="/home/chris/chris62/day36/13_mediaplayer_async/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86d8be0c732645b6d5c600f9f50d8e96c9e90523/classes.dex" />
     </item>
 
 </items>
